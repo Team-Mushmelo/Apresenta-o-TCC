@@ -64,7 +64,6 @@ Library: D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --linker-options=PdbAltPath="Tao_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\TCC\Tao_TCC\Tall\Temp\Burst
---debug=Full
 --key-folder=C:/Unity/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\TCC\Tao_TCC\Tall\Library\Burst
 --output=D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -138,7 +137,6 @@ Library: D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --linker-options=PdbAltPath="Tao_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\TCC\Tao_TCC\Tall\Temp\Burst
---debug=Full
 --key-folder=C:/Unity/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\TCC\Tao_TCC\Tall\Library\Burst
 --output=D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -210,7 +208,6 @@ Library: D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --linker-options=PdbAltPath="Tao_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\TCC\Tao_TCC\Tall\Temp\Burst
---debug=Full
 --key-folder=C:/Unity/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\TCC\Tao_TCC\Tall\Library\Burst
 --output=D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -314,7 +311,6 @@ Library: D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --linker-options=PdbAltPath="Tao_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\TCC\Tao_TCC\Tall\Temp\Burst
---debug=Full
 --key-folder=C:/Unity/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\TCC\Tao_TCC\Tall\Library\Burst
 --output=D:\TCC\Tao_TCC\Tall\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
